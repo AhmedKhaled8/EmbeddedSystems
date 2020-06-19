@@ -1,0 +1,6 @@
+[submodule "Elevator"]
+	path = Elevator
+	url = https://github.com/AhmedKhaled8/Elevator
+[submodule "TrafficLight-Assembly"]
+	path = TrafficLight-Assembly
+	url = https://github.com/AhmedKhaled8/TrafficLight-Assembly
